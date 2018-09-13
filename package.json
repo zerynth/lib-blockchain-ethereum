@@ -1,0 +1,20 @@
+{
+    "dependencies": {},
+    "description": "Ethereum platform support",
+    "fullname": "lib.blockchain.ethereum",
+    "git_pointer": "zerynth://zerynth-libs/blockchain-ethereum",
+    "info": {
+        "chip_manufacturer": "-",
+        "chip_name": "-",
+        "name": "Ethereum Platform Library",
+        "type": "Blockchain"
+    },
+    "keywords": [
+        "blockchain",
+        "ethereum"
+    ],
+    "repo": "official",
+    "title": "Ethereum Platform Library",
+    "version": "r2.1.2",
+    "whatsnew": ""
+}

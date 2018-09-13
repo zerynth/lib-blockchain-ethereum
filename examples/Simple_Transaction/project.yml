@@ -1,0 +1,4 @@
+---
+config:
+    ZERYNTH_SSL: true
+...

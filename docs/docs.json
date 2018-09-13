@@ -1,0 +1,19 @@
+{
+    "files": [
+        [
+            "Ethereum",
+            "ethereum.py"
+        ],
+        [
+            "RPC",
+            "rpc.py"
+        ],
+        [
+            "RLP",
+            "rlp.py"
+        ]
+    ],
+    "title": "Ethereum",
+    "version": "1.0.0",
+    "copyright":"Zerynth Team"
+}
