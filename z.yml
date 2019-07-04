@@ -1,0 +1,13 @@
+---
+description: Ethereum platform support
+fullname: lib.blockchain.ethereum
+info:
+    chip_manufacturer: '-'
+    chip_name: '-'
+    name: Ethereum Platform Library
+    type: Blockchain
+keywords:
+- blockchain
+- ethereum
+title: Ethereum Platform Library
+...
