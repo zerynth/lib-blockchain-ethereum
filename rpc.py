@@ -94,7 +94,7 @@ RPC class
                         raise Exception
             except Exception as e:
                 retry -= 1
-                if str(e) != 'Exception' or self.last_error == "":
+                if self.last_error == "":
                     self.last_error = str(e)
                 if not retry:
                     break

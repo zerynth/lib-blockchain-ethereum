@@ -389,6 +389,12 @@ Transaction class
         self.tx[7] = rs[0:32]
         self.tx[8] = s
 
+        # R and S must not start with 0 for RLP
+        while self.tx[7][0]==0:
+            self.tx[7]=self.tx[7][1:]
+        while self.tx[8][0]==0:
+            self.tx[8]=self.tx[8][1:]
+
 
 class Contract():
     """
